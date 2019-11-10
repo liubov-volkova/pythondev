@@ -5,8 +5,12 @@ while repeat:
     number = input('Enter number. I return you if it includes 5 figure or not\nYour number: ')
     if number.isdigit():
         for dig in number:
+<<<<<<< HEAD
             if int(dig) == 5:
                 has_fife = True
+=======
+            has_fife = int(dig) == 5
+>>>>>>> origin/master
         repeat = False
     else:
         print('\nWrong input. You must enter a number! Try it again!\n')
