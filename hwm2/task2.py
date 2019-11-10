@@ -9,17 +9,9 @@ while repeat:
         dig = int(str_digit)
         i +=1
         if dig == 5:
-<<<<<<< HEAD
             fife_count+=1
-=======
-            fife_count+=dig
->>>>>>> origin/master
         if i == 11:
             repeat = False
     else:
         print('\nWrong input. You must enter only digital figures. Try your last input again\n')
-<<<<<<< HEAD
 print("You've done! The amount of figures 5 among 10 figures is %d" % fife_count)
-=======
-print("You've done! The sum of all 5 among 10 figures is {%d}" % fife_count)
->>>>>>> origin/master
