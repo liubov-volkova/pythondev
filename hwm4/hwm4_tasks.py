@@ -100,7 +100,9 @@ print('The word with minimum counts: ', min_counts_letter)
 with open('log', 'r') as f:
     from datetime import datetime
     lines = f.readlines()
+    # get all strings with date time
     all_date_times = list(map(lambda l: l.split(',')[0], lines))
+    # sort all dates from the nearest to the latest
     all_date_times.sort(key=lambda date: datetime.strptime(date, '%Y-%m-%d %H:%M:%S'), reverse=True)
     print('All date times which are sorted:\n', all_date_times)
     print('The latest log line is: ', all_date_times[len(all_date_times)-1])
