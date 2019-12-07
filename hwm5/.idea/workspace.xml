@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5339d83-0432-48f1-b433-660c176c62d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hw5pack/.pytest_cache/test_unittests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5pack/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5pack/test_divisor_master.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw5pack/divisor_master.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw5pack/divisor_master.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw5tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw5tasks.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hw5tasks">
+  <component name="RunManager" selected="Python tests.pytest for test_unittests.TestDivisorMaster">
     <configuration name="divisor_master" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hwm5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,8 +97,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_divisor_master.test_is_simple_false" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="hwm5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5pack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_divisor_master.test_is_simple_false&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_unittests.TestDivisorMaster" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="hwm5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5pack/.pytest_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_unittests.TestDivisorMaster&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_unittests.TestDivisorMaster" />
+        <item itemvalue="Python tests.pytest for test_divisor_master.test_is_simple_false" />
         <item itemvalue="Python.hw5tasks" />
         <item itemvalue="Python.divisor_master" />
       </list>
