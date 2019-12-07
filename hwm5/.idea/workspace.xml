@@ -97,6 +97,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for hw5pack.test_unittests.TestDivisorMaster" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="hwm5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5pack/.pytest_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hw5pack.test_unittests.TestDivisorMaster&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_divisor_master.test_is_simple_false" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hwm5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +132,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5pack/.pytest_cache" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5pack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -130,6 +145,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.pytest for test_unittests.TestDivisorMaster" />
+        <item itemvalue="Python tests.pytest for hw5pack.test_unittests.TestDivisorMaster" />
         <item itemvalue="Python tests.pytest for test_divisor_master.test_is_simple_false" />
         <item itemvalue="Python.hw5tasks" />
         <item itemvalue="Python.divisor_master" />

@@ -1,3 +1,7 @@
 [
-  "test_divisor_master.py::test_is_simple_false"
+  "test_unittests.py::TestDivisorMaster::test__get_all_simple_dividers",
+  "test_unittests.py::TestDivisorMaster::test__get_dividers",
+  "test_unittests.py::TestDivisorMaster::test_is_simple_false",
+  "test_unittests.py::TestDivisorMaster::test_is_simple_true",
+  "test_unittests.py::TestDivisorMaster::test_max_simple_divider"
 ]
